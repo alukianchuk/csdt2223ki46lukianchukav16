@@ -1,5 +1,3 @@
-# csdt2223ki46lukianchukav16
-
 ## Subject: CSDT, Task 1. Initiate GIT repository
 
 1. Create a github repo with the name “csdt<YY1YY2><group><student's full name><student's number>”, main branch develop.
